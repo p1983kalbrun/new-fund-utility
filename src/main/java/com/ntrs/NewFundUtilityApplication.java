@@ -1,7 +1,7 @@
 package com.ntrs;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//comment
 @SpringBootApplication
 public class NewFundUtilityApplication {
 
